@@ -25,6 +25,11 @@ body {
     /* height: 90vh; */
 }
 
+.promo-banner{
+    height: 178px;
+    width: 400px;
+}
+
 .img-pub {
     background-image: url();
 }
