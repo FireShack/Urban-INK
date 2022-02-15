@@ -46,6 +46,11 @@ body {
     width: 400px;
 }
 
-.img-pub {
-    background-image: url();
+.nav-link{
+    color: rgb(70, 70, 70) !important;
+    /* font-weight: bold !important; */
+}
+
+.img-nav{
+    height:1rem;
 }
