@@ -92,10 +92,23 @@ body {
     padding: 1rem;
     border-radius: 5px;
 }
+
+
 /* 
 .button-card{
     border-radius: -10px;
 } */
+
+.img-most-wanted {
+    height: 550px;
+    /* width: auto; */
+}
+
+.text-most-wanted {
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
 
 .offcanvas-body {
     font-family: 'Oswald', sans-serif;
