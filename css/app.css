@@ -110,6 +110,30 @@ body {
     font-weight: bold;
 }
 
+.text-most-wanted-slide {
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.card-row-animation {
+    animation-name: animationcard;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+}
+
+@keyframes animationcard {
+    0% {
+        transform: translateX(0px);
+    }
+    50% {
+        transform: translateX(30px);
+    }
+    100% {
+        transform: translateX(0px)
+    }
+}
+
 .offcanvas-body {
     font-family: 'Oswald', sans-serif;
     font-size: larger;
@@ -128,4 +152,8 @@ body {
 
 .img-nav {
     height: 1rem;
+}
+
+.ratio-banner {
+    background-color: #0f6c79;
 }
