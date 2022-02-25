@@ -93,12 +93,6 @@ body {
     border-radius: 5px;
 }
 
-
-/* 
-.button-card{
-    border-radius: -10px;
-} */
-
 .img-most-wanted {
     height: 550px;
     /* width: auto; */
@@ -155,5 +149,9 @@ body {
 }
 
 .ratio-banner {
-    background-color: #0f6c79;
+    border: 1px solid #4dccdd !important;
+}
+
+footer{
+    background-color: #4dccdd;
 }
