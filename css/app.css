@@ -134,6 +134,7 @@ body {
     font-weight: bold;
 }
 
+
 .promo-banner {
     height: 178px;
     width: 400px;
@@ -148,10 +149,25 @@ body {
     height: 1rem;
 }
 
-.ratio-banner {
-    border: 1px solid #4dccdd !important;
+.img-cart-card{
+    height:2rem;
 }
 
-footer{
-    background-color: #4dccdd;
+.text-effect{
+    text-shadow: 5px 5px 4px #b5179e;
+    font-weight: bold;
+}
+
+.ratio-banner {
+    border: 1px solid #b5179e !important;
+}
+
+.img-icons-footer{
+    height:3rem;
+    margin:0 0 0 1rem;
+}
+
+.border-footer{
+    border-top: 1px solid #b5179e !important;
+
 }
